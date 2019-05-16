@@ -1,0 +1,56 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+h1{
+  font-family: 'Open Sans', sans-serif;
+}
+.name{
+  font-family: 'Work Sans', sans-serif;
+  margin-top: 150px;
+  font-size: 30px;
+  width: 150px;
+  margin-left: 20px;
+}
+/*agregar clases*/
+ul.accesos{
+  list-style: none;
+  padding: 0px;
+}
+/*tb agregar clase*/
+a {
+    color: grey;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.fab{
+  color: #000
+}
+/* panel lateral */
+aside.left {
+    width: 20%;
+    float: left;
+    margin-left: 5%;
+}
+/* foto */
+img {
+    float: left;
+    width: 75%;
+}
+
+div#twist {
+    background-color: rgb(255,255,255,0.5);
+    height: 10%;
+    width: 100%;
+    float: left;
+    /* padding-bottom: 4%; */
+    /* bottom: 47px; */
+    font-size: 50px;
+    font-weight: bold;
+    /* padding-left: 10%; */
+    position: absolute;
+    top: 95%;
+    font-style: auto #bbb;
+}

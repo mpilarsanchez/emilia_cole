@@ -1,0 +1,60 @@
+div#menu {
+    background-color: #fff;
+    height: 10%;
+    width: 100%;
+    float: left;
+    font-style: auto #bbb;
+    text-align: right;
+    position: relative;
+}
+div#otros_accesos {
+    float: left;
+    position: relative;
+    margin-left: 90%
+    top: 4%;
+    float: right;
+    margin-top: 10px;
+}
+a {
+    color: black;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+h1{
+  font-family: 'Work Sans', sans-serif;
+  margin-top: 25px;
+  font-size: 50px;
+  width: 300px;
+}
+
+.container{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+.desc{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 16px;
+    color: #148F77;
+    font-weight: bold;
+
+}
+.info{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.value{
+  font-family: 'Work Sans', sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  color: grey;
+}
+
+.sep{
+  
+}
